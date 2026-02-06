@@ -1,5 +1,5 @@
 
-![tenor](https://github.com/Sir-Goose/Sir-Goose/assets/66563291/99892b6d-62fe-4aa6-ba30-8ff4a9610f61)
+
 
 <!--
 **Sir-Goose/Sir-Goose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
